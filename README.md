@@ -7,7 +7,7 @@ Artificial Intelligence and Data Engineering student at Istanbul Technical Unive
 | Project | What it is | Tools |
 | --- | --- | --- |
 | [E-commerce churn prediction](https://github.com/atillahangztk/ecommerce-churn-prediction) | Five-model comparison on 50,000 customers, written up as an IEEE-format report. Team lead. | Python, scikit-learn, XGBoost |
-| [Istanbul rail passenger flows](https://github.com/atillahangztk/istanbul-rail-passenger-flows) | Estimates hourly station-to-station flows from 3.45 million ridership records. | Python, pandas, DuckDB |
+| [Istanbul rail passenger flows](https://github.com/atillahangztk/istanbul-rail-passenger-flows) | Finds over-capacity hours in 3.45 million ridership records and optimises trip frequencies with a mixed-integer programme. | Python, pandas, SciPy |
 | [Sensor imputation with SVD](https://github.com/atillahangztk/sensor-imputation-svd) | Fills gaps in weather-station data with an SVD solver written from scratch. | Python, NumPy |
 | AquaFocus (in development) | Offline mobile focus timer and habit tracker built around a living aquarium. | React Native, TypeScript, SQLite |
 
